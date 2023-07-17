@@ -1,0 +1,14 @@
+name = "Unfixed Seeds"
+filename = "unfixed-seeds-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BMKSAGRn/versions/TDwrdjSl/unfixed-seeds-1.0.2.jar"
+hash-format = "sha512"
+hash = "20c397c2defccdaa498b2b89d602b297ef933dda38282a5ccea36871e249d723d678657717e0c65932396e2549f531512482d1dec6d3d5c297f9fd5ff3a2284a"
+
+[update]
+[update.modrinth]
+mod-id = "BMKSAGRn"
+version = "TDwrdjSl"
