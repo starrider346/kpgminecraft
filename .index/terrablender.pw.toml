@@ -1,0 +1,14 @@
+name = "TerraBlender"
+filename = "TerraBlender-fabric-1.18.2-1.2.0.126.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/YIUL3PEn/TerraBlender-fabric-1.18.2-1.2.0.126.jar"
+hash-format = "sha512"
+hash = "9b0bee8938d1b3ecd5588573a8164857840866526d08e7f51830c1dfd18fc7d295bb0651567feda2247508b3a772165c640b9055d20a5eafc95701ca658e9c56"
+
+[update]
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "YIUL3PEn"

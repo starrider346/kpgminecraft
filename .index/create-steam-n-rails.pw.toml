@@ -1,0 +1,14 @@
+name = "Create: Steam n’ Rails"
+filename = "Steam_Rails-1.4.3+fabric-mc1.18.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/Nn4oVILa/Steam_Rails-1.4.3%2Bfabric-mc1.18.2.jar"
+hash-format = "sha512"
+hash = "780a3b1382a4b828ec3bcbb6eaa7c98f5adad9361a11d3b7081bd5fa9b7dadbccba21464d1f261c31e5367038b8a969d8aaae8a504499e605e672af51d25126e"
+
+[update]
+[update.modrinth]
+mod-id = "ZzjhlDgM"
+version = "Nn4oVILa"
